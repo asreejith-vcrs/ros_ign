@@ -53,7 +53,7 @@
 // Ignition messages
 #include <ignition/msgs.hh>
 
-#include "factory.hpp"
+#include "ros_ign_bridge/factory.hpp"
 
 #include <memory>
 #include <string>

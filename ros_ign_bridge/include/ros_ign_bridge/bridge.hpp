@@ -25,7 +25,7 @@
 // include Ignition Transport
 #include <ignition/transport/Node.hh>
 
-#include "factories.hpp"
+#include "ros_ign_bridge/factories.hpp"
 
 namespace ros_ign_bridge
 {

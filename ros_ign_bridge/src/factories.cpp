@@ -15,7 +15,7 @@
 #include <memory>
 #include <string>
 
-#include "factories.hpp"
+#include "ros_ign_bridge/factories.hpp"
 #include "ros_ign_bridge/convert.hpp"
 
 namespace ros_ign_bridge
